@@ -5,19 +5,19 @@ using UnityEngine;
 
 public static class HitboxRecognitionSystem
 {
-    private static Dictionary<Collider2D, Action<float>> _DamageDic= new Dictionary<Collider2D, Action<float>>();
+    private static Dictionary<Collider, Action<float>> _DamageDic= new Dictionary<Collider, Action<float>>();
 
-    public static void AddDamagableObject(Collider2D col, Action<float> method)
+    public static void AddDamagableObject(Collider col, Action<float> method)
     {
         _DamageDic.Add(col, method);
     }
 
-    public static void RemoveDamagableObject(Collider2D col)
+    public static void RemoveDamagableObject(Collider col)
     {
         _DamageDic.Remove(col);
     }
 
-    public static Action<float> GetDamage(Collider2D col)
+    public static Action<float> GetDamage(Collider col)
     {
         if(_DamageDic.ContainsKey(col))
             return _DamageDic[col];
@@ -29,7 +29,7 @@ public static class HitboxRecognitionSystem
         
     }
     
-    public static void ApplyDamage(Collider2D col, float damage)
+    public static void ApplyDamage(Collider col, float damage)
     {
         if(_DamageDic.ContainsKey(col))
             _DamageDic[col].Invoke(damage);

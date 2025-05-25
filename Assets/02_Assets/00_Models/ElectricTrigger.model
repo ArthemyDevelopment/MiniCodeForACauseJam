@@ -1,0 +1,14 @@
+# Made using Asset Forge (2.5.1a)
+
+:materials
+
+[name:_defaultMat;color:RGBA(0.907, 0.911, 0.924, 1.000);scale:(1.0, 1.0);shader:Default;mapping:0;valueA:0.35;valueB:0.25;]
+[name:dark;color:RGBA(0.195, 0.207, 0.248, 1.000);scale:(1.0, 1.0);shader:Default;mapping:0;valueA:0.35;valueB:0;]
+[name:metalOrange;color:RGBA(0.271, 0.556, 0.917, 1.000);scale:(1.0, 1.0);shader:Default;mapping:0;valueA:0.5;valueB:0.2;]
+
+:models
+
+[name:;collection:Mechanical;type:tube_steel;position:(0.0000, 0.2000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat+dark;]
+[name:;collection:Mech;type:leg_pipes;position:(0.0000, 1.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.3000, 0.3000, 0.3000);group:;locked:False;hidden:False;materials:metalOrange+_defaultMat+dark;]
+[name:;collection:Mech;type:leg_double;position:(0.0000, 0.0240, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 0.7200, 1.0000);group:;locked:False;hidden:False;materials:dark+metalOrange;]
+[name:;collection:Mechanical;type:piston_baseLarge;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:metalOrange+dark;]

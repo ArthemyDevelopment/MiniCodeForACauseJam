@@ -1,0 +1,18 @@
+# Made using Asset Forge (2.5.1a)
+
+:materials
+
+[name:_defaultMat;color:RGBA(1.000, 1.000, 1.000, 1.000);scale:(1.0, 1.0);shader:Default;mapping:0;valueA:0.35;valueB:0.25;]
+[name:dark;color:RGBA(0.228, 0.201, 0.201, 1.000);scale:(1.0, 1.0);shader:Default;mapping:0;valueA:0.35;valueB:0;]
+[name:metalPurple;color:RGBA(0.703, 0.000, 0.058, 1.000);scale:(1.0, 1.0);shader:Default;mapping:0;valueA:0.35;valueB:0;]
+
+:models
+
+[name:;collection:Aircraft;type:hull_front;position:(0.0000, 0.7950, -0.2000);rotation:(89.9802, 0.0000, 0.0000);scale:(0.4000, 0.4000, 0.4200);group:;locked:False;hidden:False;materials:_defaultMat+metalPurple;]
+[name:;collection:Blasters;type:mediumBlaster_barrelSilencer;position:(-0.3000, 0.6000, 0.3000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.4000, 0.4000, 0.4000);group:;locked:False;hidden:False;materials:metalPurple+_defaultMat+dark;]
+[name:;collection:Blasters;type:mediumBlaster_barrelSilencer;position:(0.3000, 0.6000, 0.3000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.4000, 0.4000, 0.4000);group:;locked:False;hidden:False;materials:metalPurple+_defaultMat+dark;]
+[name:;collection:Aircraft;type:hull_tail;position:(0.0000, 1.0726, -0.2000);rotation:(90.0000, 0.0000, 0.0000);scale:(0.4000, 0.4000, 0.1372);group:;locked:False;hidden:False;materials:_defaultMat+metalPurple;]
+[name:;collection:Mech;type:head_classic;position:(0.0000, 1.1000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:metalPurple+dark+_defaultMat;]
+[name:;collection:Blasters;type:largeBlaster_center;position:(0.0000, 0.9100, 0.0266);rotation:(0.0000, 0.0000, 270.0000);scale:(0.4400, 0.4000, 0.1450);group:;locked:False;hidden:False;materials:metalPurple+dark+_defaultMat;]
+[name:;collection:Blasters;type:largeBlaster_center;position:(0.0000, 0.9100, 0.0266);rotation:(0.0000, 0.0000, 90.0000);scale:(-0.4400, 0.4000, 0.1450);group:;locked:False;hidden:False;materials:metalPurple+dark+_defaultMat;]
+[name:;collection:Aircraft;type:engine_turbine;position:(0.0000, 0.4400, -0.1500);rotation:(89.9802, 0.0000, 0.0000);scale:(0.3200, 0.3200, 0.3200);group:;locked:False;hidden:False;materials:_defaultMat+metalPurple+dark;]

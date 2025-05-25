@@ -449,8 +449,8 @@
     "m_ObjectId": "03d2c56a83ab4304920d73bb815eb79d",
     "m_Title": "SOFT PARTICLES",
     "m_Position": {
-        "x": -743.0000610351563,
-        "y": 526.0000610351563
+        "x": -742.9998779296875,
+        "y": 526.0
     }
 }
 
@@ -1054,7 +1054,7 @@
     "m_AlphaMode": 2,
     "m_RenderFace": 0,
     "m_AlphaClip": true,
-    "m_CastShadows": true,
+    "m_CastShadows": false,
     "m_ReceiveShadows": true,
     "m_DisableTint": false,
     "m_AdditionalMotionVectorMode": 0,

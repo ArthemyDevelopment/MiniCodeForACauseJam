@@ -8,7 +8,7 @@ using UnityEngine.Events;
 
 public class HealthManager : MonoBehaviour
 {
-    [BoxGroup("Stats"), SerializeField] protected Collider2D hitBox;
+    [BoxGroup("Stats"), SerializeField] protected Collider hitBox;
     [BoxGroup("Stats"),SerializeField]protected int BaseHealth;
     [BoxGroup("Stats"),SerializeField, ReadOnly]protected float _actHealth;
     public UnityEvent OnDeath;
@@ -24,7 +24,7 @@ public class HealthManager : MonoBehaviour
 
     protected virtual void Awake()
     {
-        if (hitBox == null) hitBox = GetComponent<Collider2D>();
+        if (hitBox == null) hitBox = GetComponent<Collider>();
         HitboxRecognitionSystem.AddDamagableObject(hitBox, ApplyDamage);
     }
 

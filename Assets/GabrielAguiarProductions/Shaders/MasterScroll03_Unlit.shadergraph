@@ -1590,8 +1590,8 @@
     "m_ObjectId": "0d4b309c0e2a4540bf4865eb975c5ac6",
     "m_Title": "SOFT PARTICLES",
     "m_Position": {
-        "x": 618.9998168945313,
-        "y": 2009.0
+        "x": 619.0,
+        "y": 2008.999755859375
     }
 }
 
@@ -3944,8 +3944,8 @@
     "m_ObjectId": "5535694a18a94bd88677b1f392a2e2ea",
     "m_Title": "DISSOLVE",
     "m_Position": {
-        "x": -746.000244140625,
-        "y": 709.0
+        "x": -746.0,
+        "y": 708.9999389648438
     }
 }
 
@@ -4309,7 +4309,7 @@
     "m_AlphaMode": 0,
     "m_RenderFace": 0,
     "m_AlphaClip": false,
-    "m_CastShadows": true,
+    "m_CastShadows": false,
     "m_ReceiveShadows": true,
     "m_DisableTint": false,
     "m_AdditionalMotionVectorMode": 0,
@@ -4377,8 +4377,8 @@
     "m_ObjectId": "62a2a92eda35411ea3f4005a130edb2c",
     "m_Title": "DISTORTION",
     "m_Position": {
-        "x": -2001.000244140625,
-        "y": -112.00001525878906
+        "x": -2000.9998779296875,
+        "y": -112.0
     }
 }
 
@@ -4903,8 +4903,8 @@
     "m_ObjectId": "704a10beb62f4a94a371493775c8c281",
     "m_Title": "INTERSECTION",
     "m_Position": {
-        "x": -55.000144958496097,
-        "y": 1172.0
+        "x": -55.00000762939453,
+        "y": 1171.9998779296875
     }
 }
 
@@ -9083,8 +9083,8 @@
     "m_ObjectId": "ff274a115e524c01bc3c7f41338fa5ad",
     "m_Title": "MAIN TEX",
     "m_Position": {
-        "x": -597.0001831054688,
-        "y": -115.0000228881836
+        "x": -596.9999389648438,
+        "y": -114.99998474121094
     }
 }
 
