@@ -7,6 +7,7 @@ TagManager:
   - PlayerTriggers
   - Bullet
   - Enemy
+  - Ball
   layers:
   - Default
   - TransparentFX

@@ -4958,6 +4958,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 9e65bf6b4c62eb34eaf7c29050119543, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5011258388474119924}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 9e65bf6b4c62eb34eaf7c29050119543, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3903898544051050167}
   m_SourcePrefab: {fileID: 100100000, guid: 9e65bf6b4c62eb34eaf7c29050119543, type: 3}
 --- !u!4 &8235061285828465311 stripped
 Transform:
@@ -4990,3 +4993,23 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.99999994, y: 1.2399999, z: 0.99999994}
   m_Center: {x: 0, y: 0.61999995, z: 0}
+--- !u!114 &3903898544051050167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8719813540544825381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31477a46e15681243bd7b1a77af85009, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDeactivateable: 0
+  ElectricParticles: {fileID: 7009968324012088921}
+  OnTurnOn:
+    m_PersistentCalls:
+      m_Calls: []
+  OnTurnOff:
+    m_PersistentCalls:
+      m_Calls: []

@@ -62,12 +62,12 @@ public class EnemyAggroController : MonoBehaviour
     {
         while (isShooting)
         {
+            yield return ScriptsTools.GetWait(fireRate);
             for (int i = 0; i < ShootingPoint.Length; i++)
             {
                 Instantiate(BulletPrefab, ShootingPoint[i].position, transform.rotation);
             }
 
-            yield return ScriptsTools.GetWait(fireRate);
         }
     }
 
