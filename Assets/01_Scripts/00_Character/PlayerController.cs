@@ -21,6 +21,8 @@ public class PlayerController : MonoBehaviour
     [FoldoutGroup("Raycast Stats")] [SerializeField] private Vector3 hitPosition;
     private Ray ray;
     private RaycastHit hitPoint;
+
+    private bool GotBall=false;
     
 
 
@@ -31,7 +33,7 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    void Start()
+    void ActiveLaser()
     {
         ballLaser.EnableLaser();
         ballLaser.gameObject.SetActive(true);
@@ -43,7 +45,6 @@ public class PlayerController : MonoBehaviour
         InputDirection.x = Input.GetAxis("Horizontal");
         InputDirection.z = Input.GetAxis("Vertical");
         
-        ballLaser.UpdateLaser();
         InputDirection.Normalize();
 
         if (InputDirection.magnitude == 0)
@@ -65,6 +66,10 @@ public class PlayerController : MonoBehaviour
             anims.TriggerAnim(PlayerAnims.Roll);
         }
 
+        if (!GotBall) return;
+        
+        ballLaser.UpdateLaser();
+        
         if (Input.GetMouseButtonDown(0))
         {
             ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -83,6 +88,12 @@ public class PlayerController : MonoBehaviour
         }
 
 
+    }
+
+    public void DeactivePlayer()
+    {
+        velocity = 0;
+        RollForce = 0;
     }
 
     private void FixedUpdate()
@@ -132,5 +143,15 @@ public class PlayerController : MonoBehaviour
         ballJoint.GrabBall();
         ballLaser.EnableLaser();
         
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("BallTutorial")&&!GotBall)
+        {
+            GotBall = true;
+            ActiveLaser();
+            GrabBall();
+        }
     }
 }

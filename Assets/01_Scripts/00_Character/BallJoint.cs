@@ -37,6 +37,8 @@ public class BallJoint : MonoBehaviour
             JointMaxDis = Joint.maxDistance;
 
         }
+        
+        DropBall();
     }
 
 

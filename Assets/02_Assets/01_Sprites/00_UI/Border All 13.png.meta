@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 6c8964563d7ed744fa097a99fba1a7d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4230976944326333923
+    second: Border All 13_0
+  - first:
+      213: -5980273603260801081
+    second: Border All 13_1
+  - first:
+      213: -7626430315885864943
+    second: Border All 13_2
+  - first:
+      213: -5740432653876491834
+    second: Border All 13_3
+  - first:
+      213: -80302832349342540
+    second: Border All 13_4
+  - first:
+      213: -6067879511394846814
+    second: Border All 13_5
+  - first:
+      213: 4036198958907750709
+    second: Border All 13_6
+  - first:
+      213: 2645421272198228344
+    second: Border All 13_7
+  - first:
+      213: -5115789197698468743
+    second: Border All 13_8
+  - first:
+      213: 4138195313033693399
+    second: Border All 13_9
+  - first:
+      213: 1994763722551991269
+    second: Border All 13_10
+  - first:
+      213: 8442178109582054046
+    second: Border All 13_11
+  - first:
+      213: -5383873285944583886
+    second: Border All 13_12
+  - first:
+      213: -1492113500657447558
+    second: Border All 13_13
+  - first:
+      213: -5766079858972500009
+    second: Border All 13_14
+  - first:
+      213: 7988842257684819115
+    second: Border All 13_15
+  - first:
+      213: -7237891631569814707
+    second: Border All 13_16
+  - first:
+      213: -482391582117332721
+    second: Border All 13_17
+  - first:
+      213: 2121527244619958624
+    second: Border All 13_18
+  - first:
+      213: 5066217979702930
+    second: Border All 13_19
+  - first:
+      213: -8271373927001835100
+    second: Border All 13_20
+  - first:
+      213: 7054183954426339750
+    second: Border All 13_21
+  - first:
+      213: -358637388576489160
+    second: Border All 13_22
+  - first:
+      213: -692985643421998097
+    second: Border All 13_23
+  - first:
+      213: -8417441894826732242
+    second: Border All 13_24
+  - first:
+      213: -3760823272392106971
+    second: Border All 13_25
+  - first:
+      213: 6610289670607385257
+    second: Border All 13_26
+  - first:
+      213: 1667968021069809546
+    second: Border All 13_27
+  - first:
+      213: 1470629845883963556
+    second: Border All 13_28
+  - first:
+      213: 7928355738888181258
+    second: Border All 13_29
+  - first:
+      213: 3110759307763296960
+    second: Border All 13_30
+  - first:
+      213: -6257750384182704858
+    second: Border All 13_31
+  - first:
+      213: 634380510565845698
+    second: Border All 13_32
+  - first:
+      213: 3747217360451591919
+    second: Border All 13_33
+  - first:
+      213: -4190432855831104627
+    second: Border All 13_34
+  - first:
+      213: -5772533021230806024
+    second: Border All 13_35
+  - first:
+      213: -8291443357874348445
+    second: Border All 13_36
+  - first:
+      213: 3700321500261838763
+    second: Border All 13_37
+  - first:
+      213: -8005275560112729428
+    second: Border All 13_38
+  - first:
+      213: 970184497882579512
+    second: Border All 13_39
+  - first:
+      213: 3897232629711076305
+    second: Border All 13_40
+  - first:
+      213: 4115691257159571079
+    second: Border All 13_41
+  - first:
+      213: -1243717069678515743
+    second: Border All 13_42
+  - first:
+      213: 7310081278222660328
+    second: Border All 13_43
+  - first:
+      213: -8439912892874072518
+    second: Border All 13_44
+  - first:
+      213: -1011612032567677330
+    second: Border All 13_45
+  - first:
+      213: -5876504194082403771
+    second: Border All 13_46
+  - first:
+      213: -7681973543817309095
+    second: Border All 13_47
+  - first:
+      213: -8920649073475347221
+    second: Border All 13_48
+  - first:
+      213: 1939599087221237005
+    second: Border All 13_49
+  - first:
+      213: -4925666763264588641
+    second: Border All 13_50
+  - first:
+      213: 2707256947957445136
+    second: Border All 13_51
+  - first:
+      213: 7570710500683182064
+    second: Border All 13_52
+  - first:
+      213: 3147711976253411517
+    second: Border All 13_53
+  - first:
+      213: -4648950591577043579
+    second: Border All 13_54
+  - first:
+      213: 3777260093672207961
+    second: Border All 13_55
+  - first:
+      213: -8437636419811929822
+    second: Border All 13_56
+  - first:
+      213: -366263109485019041
+    second: Border All 13_57
+  - first:
+      213: -6856394684944964651
+    second: Border All 13_58
+  - first:
+      213: -5299686878034197930
+    second: Border All 13_59
+  - first:
+      213: -6990150396027230926
+    second: Border All 13_60
+  - first:
+      213: 4895695156881229471
+    second: Border All 13_61
+  - first:
+      213: -6205953183714698663
+    second: Border All 13_62
+  - first:
+      213: 4919212900714667497
+    second: Border All 13_63
+  - first:
+      213: 4499240996155430520
+    second: Border All 13_64
+  - first:
+      213: 5074350339723075093
+    second: Border All 13_65
+  - first:
+      213: -4375042497377954477
+    second: Border All 13_66
+  - first:
+      213: 22224085709322950
+    second: Border All 13_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Border All 13_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 31, z: 32, w: 31}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5507b3d1377ba30800000000000000
+      internalID: 4230976944326333923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99e5dc9b5b8828b4cbdcb839a103501c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":640.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Border All 13_0: 4230976944326333923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

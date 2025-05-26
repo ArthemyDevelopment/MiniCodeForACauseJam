@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 3ab8d52167ec7354db03916c3d6a8c78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5668321069790970596
+    second: Ram Panels All_0
+  - first:
+      213: -4599905347094210417
+    second: Ram Panels All_1
+  - first:
+      213: -2131826430994584189
+    second: Ram Panels All_2
+  - first:
+      213: -3054900580170141030
+    second: Ram Panels All_3
+  - first:
+      213: 140529044891619425
+    second: Ram Panels All_4
+  - first:
+      213: -8240973715337521850
+    second: Ram Panels All_5
+  - first:
+      213: 5206602440671550948
+    second: Ram Panels All_6
+  - first:
+      213: 4377910371276073936
+    second: Ram Panels All_7
+  - first:
+      213: 2482034490861959137
+    second: Ram Panels All_8
+  - first:
+      213: 5926070993899622136
+    second: Ram Panels All_9
+  - first:
+      213: -3791244574971826134
+    second: Ram Panels All_10
+  - first:
+      213: -2883204652451266897
+    second: Ram Panels All_11
+  - first:
+      213: -7599663239615348918
+    second: Ram Panels All_12
+  - first:
+      213: 5117702264921922371
+    second: Ram Panels All_13
+  - first:
+      213: -5835203885011160146
+    second: Ram Panels All_14
+  - first:
+      213: -7233675820556819867
+    second: Ram Panels All_15
+  - first:
+      213: 6040853895974146959
+    second: Ram Panels All_16
+  - first:
+      213: -7517552981724833704
+    second: Ram Panels All_17
+  - first:
+      213: -5559971397029536334
+    second: Ram Panels All_18
+  - first:
+      213: -143942213672645580
+    second: Ram Panels All_19
+  - first:
+      213: -2809475499743449382
+    second: Ram Panels All_20
+  - first:
+      213: 7609475964995389142
+    second: Ram Panels All_21
+  - first:
+      213: -4739382426795572921
+    second: Ram Panels All_22
+  - first:
+      213: 2994898812988653968
+    second: Ram Panels All_23
+  - first:
+      213: -8088800862686603158
+    second: Ram Panels All_24
+  - first:
+      213: 6462554600882415817
+    second: Ram Panels All_25
+  - first:
+      213: 4679241374325735854
+    second: Ram Panels All_26
+  - first:
+      213: -1476029459282594660
+    second: Ram Panels All_27
+  - first:
+      213: -4050602976172774024
+    second: Ram Panels All_28
+  - first:
+      213: -6824970207944770080
+    second: Ram Panels All_29
+  - first:
+      213: -4447806107930271678
+    second: Ram Panels All_30
+  - first:
+      213: 2151814016288114024
+    second: Ram Panels All_31
+  - first:
+      213: -2013260080898754043
+    second: Ram Panels All_32
+  - first:
+      213: -1104588699227577440
+    second: Ram Panels All_33
+  - first:
+      213: -3866053319731865349
+    second: Ram Panels All_34
+  - first:
+      213: 4473742594484310611
+    second: Ram Panels All_35
+  - first:
+      213: 333891530151204326
+    second: Ram Panels All_36
+  - first:
+      213: -599666867672036308
+    second: Ram Panels All_37
+  - first:
+      213: -7459295756818917280
+    second: Ram Panels All_38
+  - first:
+      213: 3244034480907301780
+    second: Ram Panels All_39
+  - first:
+      213: 8433662760766998323
+    second: Ram Panels All_40
+  - first:
+      213: -2574444761384274838
+    second: Ram Panels All_41
+  - first:
+      213: 5449577512290466523
+    second: Ram Panels All_42
+  - first:
+      213: -2283253798280103694
+    second: Ram Panels All_43
+  - first:
+      213: -8896957512455189259
+    second: Ram Panels All_44
+  - first:
+      213: 8976841188013772118
+    second: Ram Panels All_45
+  - first:
+      213: -3903913050324218286
+    second: Ram Panels All_46
+  - first:
+      213: -5491498666864709061
+    second: Ram Panels All_47
+  - first:
+      213: -9118955246967401949
+    second: Ram Panels All_48
+  - first:
+      213: -1752759664418943046
+    second: Ram Panels All_49
+  - first:
+      213: 7266805833159082215
+    second: Ram Panels All_50
+  - first:
+      213: -5287537406938067282
+    second: Ram Panels All_51
+  - first:
+      213: 3126706166671427262
+    second: Ram Panels All_52
+  - first:
+      213: 1033234888104132652
+    second: Ram Panels All_53
+  - first:
+      213: -403173819352461811
+    second: Ram Panels All_54
+  - first:
+      213: 5336271868682806200
+    second: Ram Panels All_55
+  - first:
+      213: -5793536300038865044
+    second: Ram Panels All_56
+  - first:
+      213: -3405976669272452272
+    second: Ram Panels All_57
+  - first:
+      213: 1218428691306874285
+    second: Ram Panels All_58
+  - first:
+      213: -4628637935101228999
+    second: Ram Panels All_59
+  - first:
+      213: 87447793233564571
+    second: Ram Panels All_60
+  - first:
+      213: -9082522601772136693
+    second: Ram Panels All_61
+  - first:
+      213: 9114507219835224284
+    second: Ram Panels All_62
+  - first:
+      213: 7580666895167511464
+    second: Ram Panels All_63
+  - first:
+      213: 3074627890024690734
+    second: Ram Panels All_64
+  - first:
+      213: 8092342982516425002
+    second: Ram Panels All_65
+  - first:
+      213: -8850791509320013418
+    second: Ram Panels All_66
+  - first:
+      213: -3876507176035503587
+    second: Ram Panels All_67
+  - first:
+      213: 494938978195955638
+    second: Ram Panels All_68
+  - first:
+      213: -7515304727252913048
+    second: Ram Panels All_69
+  - first:
+      213: 3531474507457689048
+    second: Ram Panels All_70
+  - first:
+      213: 7565048672146912424
+    second: Ram Panels All_71
+  - first:
+      213: -4462133254621961063
+    second: Ram Panels All_72
+  - first:
+      213: -1662578389640507128
+    second: Ram Panels All_73
+  - first:
+      213: 1028346650160397439
+    second: Ram Panels All_74
+  - first:
+      213: 5639366471539147757
+    second: Ram Panels All_75
+  - first:
+      213: -625284030103992599
+    second: Ram Panels All_76
+  - first:
+      213: 3306245955460040445
+    second: Ram Panels All_77
+  - first:
+      213: -449697446317604748
+    second: Ram Panels All_78
+  - first:
+      213: 2216224194349256543
+    second: Ram Panels All_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ram Panels All_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 134
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d031b4cc69a3384b8c57214ff36888d
+      internalID: -5668321069790970596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ram Panels All_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 134
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc767367306e90f4486aa3a9003ad51c
+      internalID: 891379502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f34f22da4fbe11747943eae1fc93e704
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":640.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ram Panels All_0: -5668321069790970596
+      Ram Panels All_1: 891379502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
