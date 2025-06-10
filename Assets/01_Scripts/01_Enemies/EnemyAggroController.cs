@@ -11,12 +11,15 @@ public class EnemyAggroController : MonoBehaviour
     public GameObject BulletPrefab;
     public Transform[] ShootingPoint;
     public float fireRate;
+    private float preFireRateDelay;
+    private float postFireRateDelay;
     private bool isShooting;
     private Coroutine shootCorutine;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void OnEnable()
     {
-        
+        preFireRateDelay = fireRate * 0.3f;
+        postFireRateDelay = fireRate*0.7f;
     }
 
     // Update is called once per frame
@@ -62,11 +65,12 @@ public class EnemyAggroController : MonoBehaviour
     {
         while (isShooting)
         {
-            yield return ScriptsTools.GetWait(fireRate);
+            yield return ScriptsTools.GetWait(preFireRateDelay);
             for (int i = 0; i < ShootingPoint.Length; i++)
             {
                 Instantiate(BulletPrefab, ShootingPoint[i].position, transform.rotation);
             }
+            yield return ScriptsTools.GetWait(postFireRateDelay);
 
         }
     }

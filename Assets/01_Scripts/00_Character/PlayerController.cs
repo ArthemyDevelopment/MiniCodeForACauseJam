@@ -126,7 +126,7 @@ public class PlayerController : MonoBehaviour
     public void ThrowBall()
     {
         DropBall();
-        ballJoint.ThrowBall(hitPosition);
+        ballJoint.ThrowBall(hitPosition, transform.position);
     }
     
     [Button]

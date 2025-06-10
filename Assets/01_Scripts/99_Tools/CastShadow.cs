@@ -17,7 +17,7 @@ public class CastShadow : MonoBehaviour
         if (Physics.Raycast(transform.position, Vector3.down, out hit, 15))
         {
             Shadow.gameObject.SetActive(true);
-            Shadow.transform.position = hit.point + new Vector3(0, 0.1f, 0);
+            Shadow.transform.position = hit.point + new Vector3(0, 0.005f, 0);
         }
         else
             Shadow.gameObject.SetActive(false);

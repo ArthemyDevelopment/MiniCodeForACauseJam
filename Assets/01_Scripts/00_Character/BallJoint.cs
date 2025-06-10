@@ -49,10 +49,13 @@ public class BallJoint : MonoBehaviour
 
 
     [Button]
-    public void ThrowBall(Vector3 direction)
+    public void ThrowBall(Vector3 direction, Vector3 startPosition)
     {
+        transform.position = new Vector3(startPosition.x, transform.position.y, startPosition.z);
         ThrowDirection = direction - transform.position;
         ThrowDirection.Normalize();
+        rb.linearVelocity = Vector3.zero;
+        rb.angularVelocity = Vector3.zero;
         rb.AddForce((ThrowDirection+(Vector3.up/2))*ThrowForce);
         curState = BallState.Throw;
     }
